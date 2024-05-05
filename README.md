@@ -1,1 +1,1 @@
-Generar campo de estrellas de fondo con CSS y JavaScript
+Generar campo de estrellas de fondo animado con CSS y JavaScript
